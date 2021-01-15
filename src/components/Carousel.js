@@ -2,9 +2,9 @@ import React from 'react';
 
 import Card from '../components/Card';
 
-import tinder from '../assets/images/tinder.png';
-import serge from '../assets/images/serge.png';
-import amazon from '../assets/images/amazon.png';
+import tinder from '../assets/images/tinder.jpg';
+import serge from '../assets/images/serge.jpg';
+import amazon from '../assets/images/amazon.jpg';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
